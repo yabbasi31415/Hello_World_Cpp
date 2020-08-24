@@ -8,7 +8,7 @@ A simple Hello World project in C++ for getting started
 * Once the repo is cloned, cd to Hello_World_Cpp. Make sure you have both the files here that are a part of this repo
 * Right now this repo only has one cpp file; main.cpp. We can compile it from command line using GCC
 * To compile,
-   `g++ -o _main main.cpp`
-* To run the executable we just created (named _main ), `./main`
+   `g++ -o out main.cpp`
+* To run the executable we just created (named out ), `./out`
 * Verify if the output is correct
  
